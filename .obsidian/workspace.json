@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/JAVA学习大纲.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/JAVA学习大纲.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/JAVA学习大纲.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/JAVA学习大纲.md",
+                "file": "docs/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/JAVA学习大纲.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,23 +259,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "ff9dfb1766339e03",
   "lastOpenFiles": [
+    "docs/text/练习题.md",
+    "docs/text/练习题-标识符命名规则.md",
+    "docs/text/练习题-逻辑运算符.md",
+    "docs/text/练习题-数据类型转换.md",
+    "docs/index.md",
+    "docs/text/Java概述.md",
     "docs/主页.md",
     "docs/JAVA学习大纲.md",
     "docs/关键字.md",
@@ -297,12 +303,6 @@
     "docs/常用类.md",
     "docs/集合.md",
     "docs/标识符命名规则和规范.md",
-    "docs/小驼峰命名法(简称驼峰法).md",
-    "docs/type.md",
-    "docs/implements.md",
-    "docs/面向对象编程.md",
-    "docs/表格测试.md",
-    "docs/分支控制(if, else, switch).md",
     "docs/PPT.pptx",
     "Pictures/宁波海关缉私局警察业务大楼2.jpg",
     "Pictures/练习题-while循环控制-1.png",
