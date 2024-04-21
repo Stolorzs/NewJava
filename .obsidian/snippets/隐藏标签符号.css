@@ -1,0 +1,5 @@
+/* Hide only the # symbol in hashtags */
+span.cm-hashtag.cm-formatting-hashtag {
+  display: none;
+}
+

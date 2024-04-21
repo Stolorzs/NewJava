@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "测试属性": "multitext",
+    "相关笔记": "multitext",
+    "法律相关": "multitext",
+    "构造和物理": "multitext",
+    "外链": "multitext"
+  }
+}

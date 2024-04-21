@@ -1,0 +1,13 @@
+/* 
+@Author   : 咖啡豆  
+@contact  : https://obsidian.vip/  
+@File     : coffeebean-隐藏-编辑模式的标题符号.css  
+@Software : vscode  
+@Date     : 2023-02-02  
+@upDate   : 2023-02-02  
+@Desc     : 隐藏编辑模式下的标题符号，比如：#、##、###、####、#####、######、  
+*/  
+.cm-formatting-header{  
+    display: none;  
+}
+

@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "你是谁"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "你是谁"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "..."
+    }
+  ]
+]

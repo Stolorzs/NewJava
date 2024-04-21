@@ -1,0 +1,40 @@
+{
+  "appName": "GP3_NOTES",
+  "token": "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",
+  "model": "text-davinci-003",
+  "tokens": 300,
+  "temperature": 5,
+  "promptHistory": [
+    {
+      "prompt": "写首诗",
+      "processedPrompt": "写首诗",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "写首诗",
+      "processedPrompt": "写首诗",
+      "temperature": 0.5,
+      "tokens": 300
+    }
+  ],
+  "tokenParams": {
+    "prefix": [
+      "Write an essay",
+      "Write dashed notes",
+      "Write bullet notes",
+      "Write paragraphs",
+      "Write an article",
+      "Create a manual",
+      "Create an outline",
+      "Write a summary",
+      "Write a program"
+    ],
+    "postfix": [
+      "with sources",
+      "with footnotes",
+      "with comments",
+      "with quotes"
+    ]
+  }
+}

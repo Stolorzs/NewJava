@@ -1,0 +1,3097 @@
+{
+  "workspaces": {
+    "图谱视图": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0fb464290dc95502",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f14e81bc1752a2df",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 59.49074074074075,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#最早",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41d3be625ee5fa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "book-explorer-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 40.50925925925926,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eca7ff468b28ec6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:考研课程/中国建筑史/名词解释",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11361494
+                          }
+                        },
+                        {
+                          "query": "file:中建史大纲",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9127494
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/零散笔记",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/二级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15384254
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/一级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048347
+                          }
+                        },
+                        {
+                          "query": "path:档案袋",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        },
+                        {
+                          "query": "path:快题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4307573
+                          }
+                        },
+                        {
+                          "query": "path:/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.041955444545288,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 338.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "f14e81bc1752a2df"
+    },
+    "001": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f06cb212bd54700",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75d4dcd7a7d84c87",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/线下课程笔记——中国建筑史.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "41fafc22be271ae4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.4.5"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "faec8efd458cecba",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/外国建筑史/外国建筑史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "a4f5d0c6810031c5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "622caaee0549fdd3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/题型.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "0aa1d283f4caa735",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/格罗皮乌斯.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4b903ddb85afb2aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/赖特.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0562000d2883d46c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/四大师概述.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a603ffd34e60a232",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/工地实习报告.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 8
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 52.19907407407407,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7937b3cdac17f527",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9f5a9b0eb3fb8ffd",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.allhistory.com/map"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 47.800925925925924,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3d5e70d38dbedbff",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "New world/工地实习报告.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2ff15e70082f5543",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "New world/工地实习报告.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "New world/工地实习报告.md"
+                  }
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f0ddfbf87b8b1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "New world/工地实习报告.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6446989797980703,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "a603ffd34e60a232"
+    },
+    "002": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f06cb212bd54700",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90c99ab820a190e6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 52.19907407407407,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#最早",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41d3be625ee5fa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "book-explorer-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 47.800925925925924,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eca7ff468b28ec6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md"
+                  }
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f0ddfbf87b8b1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:考研课程/中国建筑史/名词解释",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11361494
+                          }
+                        },
+                        {
+                          "query": "file:中建史大纲",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9127494
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/零散笔记",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/二级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15384254
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/一级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048347
+                          }
+                        },
+                        {
+                          "query": "path:档案袋",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        },
+                        {
+                          "query": "path:快题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4307573
+                          }
+                        },
+                        {
+                          "query": "path:/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.4467665113438692,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 338.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-booknote-plugin:书库": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "fa67544361ea75d5"
+    },
+    "003": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "dc0067a0b18773a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c70e3ec8df97f943",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/外国建筑史/1-1 古埃及和古希腊.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 59.49074074074075,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#最早",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41d3be625ee5fa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "book-explorer-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 40.50925925925926,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 255.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "考研课程/外国建筑史/1-1 古埃及和古希腊.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eca7ff468b28ec6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "考研课程/外国建筑史/1-1 古埃及和古希腊.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "考研课程/外国建筑史/1-1 古埃及和古希腊.md"
+                  }
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "考研课程/外国建筑史/1-1 古埃及和古希腊.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:考研课程/中国建筑史/名词解释",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11361494
+                          }
+                        },
+                        {
+                          "query": "file:中建史大纲",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9127494
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/零散笔记",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/二级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15384254
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/一级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048347
+                          }
+                        },
+                        {
+                          "query": "path:档案袋",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        },
+                        {
+                          "query": "path:快题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4307573
+                          }
+                        },
+                        {
+                          "query": "path:/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.0911057556036137,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 338.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-booknote-plugin:书库": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "c70e3ec8df97f943"
+    },
+    "004": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0176359b35d7a1d6",
+            "type": "tabs",
+            "dimension": 64.05405405405405,
+            "children": [
+              {
+                "id": "7b169cef8788f9dc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "book-view",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "0f06cb212bd54700",
+            "type": "tabs",
+            "dimension": 35.945945945945944,
+            "children": [
+              {
+                "id": "90c99ab820a190e6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "a22f55953c7cdb85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/2.2 汉至明清的都城建设.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "06eb1addb1b4f1ea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/元大都与明清北京.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 52.19907407407407,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "周礼",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41d3be625ee5fa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "book-explorer-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 47.800925925925924,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "New world/元大都与明清北京.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eca7ff468b28ec6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "New world/元大都与明清北京.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "New world/元大都与明清北京.md"
+                  }
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f0ddfbf87b8b1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "New world/元大都与明清北京.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:考研课程/中国建筑史/名词解释",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11361494
+                          }
+                        },
+                        {
+                          "query": "file:中建史大纲",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9127494
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/零散笔记",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/二级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15384254
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/一级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048347
+                          }
+                        },
+                        {
+                          "query": "path:档案袋",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        },
+                        {
+                          "query": "path:快题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4307573
+                          }
+                        },
+                        {
+                          "query": "path:/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16777215
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.107798048928221,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-booknote-plugin:书库": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "06eb1addb1b4f1ea"
+    },
+    "005": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0176359b35d7a1d6",
+            "type": "tabs",
+            "dimension": 56.08040201005026,
+            "children": [
+              {
+                "id": "7b169cef8788f9dc",
+                "type": "leaf",
+                "state": {
+                  "type": "book-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "0f06cb212bd54700",
+            "type": "tabs",
+            "dimension": 43.91959798994975,
+            "children": [
+              {
+                "id": "5e5c648ce80116b4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/外国建筑史/外国建筑史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ab11cf29f7474bde",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "7baf6652fff363bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "faec8efd458cecba",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/世界历史年表.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "fc934b1e2d17de62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.1 宫殿.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 52.19907407407407,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41d3be625ee5fa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "book-explorer-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 47.800925925925924,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.1 宫殿.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eca7ff468b28ec6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.1 宫殿.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.1 宫殿.md"
+                  }
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f0ddfbf87b8b1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.1 宫殿.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:考研课程/中国建筑史/名词解释",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11361494
+                          }
+                        },
+                        {
+                          "query": "file:中建史大纲",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9127494
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/零散笔记",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/二级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15384254
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/一级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048347
+                          }
+                        },
+                        {
+                          "query": "path:档案袋",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9737364
+                          }
+                        },
+                        {
+                          "query": "path:快题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4307573
+                          }
+                        },
+                        {
+                          "query": "path:/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9737364
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.058240576199117,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 297.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-booknote-plugin:书库": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "fc934b1e2d17de62"
+    },
+    "006": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f06cb212bd54700",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e5c648ce80116b4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/外国建筑史/外国建筑史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ab11cf29f7474bde",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/中建史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "3aa0077fda03a05d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "a4454af2d8454974",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3d5323e1e79594c0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.3 陵墓.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "faec8efd458cecba",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/世界历史年表.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 52.19907407407407,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "明堂",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41d3be625ee5fa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "book-explorer-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7937b3cdac17f527",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 47.800925925925924,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eca7ff468b28ec6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md"
+                  }
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f0ddfbf87b8b1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:考研课程/中国建筑史/名词解释",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11361494
+                          }
+                        },
+                        {
+                          "query": "file:中建史大纲",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9127494
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/零散笔记",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/二级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15384254
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/一级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048347
+                          }
+                        },
+                        {
+                          "query": "path:档案袋",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9737364
+                          }
+                        },
+                        {
+                          "query": "path:快题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4307573
+                          }
+                        },
+                        {
+                          "query": "path:/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9737364
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.315273392479293,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 221.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-booknote-plugin:书库": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "3aa0077fda03a05d"
+    },
+    "007": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f06cb212bd54700",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e5c648ce80116b4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/外国建筑史/外国建筑史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "514424e7fe102553",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/2-2 巴洛克 法国古典主义.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a4454af2d8454974",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3d5323e1e79594c0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.3 陵墓.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "faec8efd458cecba",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/世界历史年表.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "fa841436c35665b2",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&dyTabStr=MCwzLDQsNSwxLDYsMiw3LDgsOQ%3D%3D&word=%E6%81%A9%E7%93%A6%E7%AB%8B%E5%BE%B7%E6%95%99%E5%A0%82%E5%89%96%E9%9D%A2"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 52.19907407407407,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "明堂",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41d3be625ee5fa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "book-explorer-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7937b3cdac17f527",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 47.800925925925924,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "New world/2-2 巴洛克 法国古典主义.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eca7ff468b28ec6c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "New world/2-2 巴洛克 法国古典主义.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "New world/2-2 巴洛克 法国古典主义.md"
+                  }
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f0ddfbf87b8b1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "New world/2-2 巴洛克 法国古典主义.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:考研课程/中国建筑史/名词解释",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11361494
+                          }
+                        },
+                        {
+                          "query": "file:中建史大纲",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9127494
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/零散笔记",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/二级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15384254
+                          }
+                        },
+                        {
+                          "query": "path:考研课程/中国建筑史/一级标题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048347
+                          }
+                        },
+                        {
+                          "query": "path:档案袋",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9737364
+                          }
+                        },
+                        {
+                          "query": "path:快题",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4307573
+                          }
+                        },
+                        {
+                          "query": "path:/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9737364
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.0078125,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 221.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-statusbar-pomo:Start pomodoro": false,
+          "obsidian-booknote-plugin:书库": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "514424e7fe102553"
+    },
+    "008": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f06cb212bd54700",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e5c648ce80116b4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/外国建筑史/外国建筑史大纲.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "514424e7fe102553",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/2-2 巴洛克 法国古典主义.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a4454af2d8454974",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/零散笔记/中建史画图题.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3d5323e1e79594c0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研课程/中国建筑史/二级标题/4.3 陵墓.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "faec8efd458cecba",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New world/世界历史年表.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "fa841436c35665b2",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&dyTabStr=MCwzLDQsNSwxLDYsMiw3LDgsOQ%3D%3D&word=%E6%81%A9%E7%93%A6%E7%AB%8B%E5%BE%B7%E6%95%99%E5%A0%82%E5%89%96%E9%9D%A2"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f4ffa3cbcf9d1a96",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "c674c0af031839b0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef9bd352711637cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adb029ebd8e64b41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ef2fd2ce9a5ab2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c0810b067e0f099",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "228e5f0984026dfb",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "2ae7e34de229382a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New world/2-2 巴洛克 法国古典主义.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1aa3e0c48c6d2f38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "New world/2-2 巴洛克 法国古典主义.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e5077eee973e8a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "New world/2-2 巴洛克 法国古典主义.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2,
+        "pinned": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "514424e7fe102553"
+    },
+    "000": {
+      "main": {
+        "id": "1d505dda3b0ec032",
+        "type": "split",
+        "children": [
+          {
+            "id": "4cbe5e200ddc4b04",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "154bc38d520a9caf",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "59c6306807159325",
+        "type": "split",
+        "children": [
+          {
+            "id": "d349f3900d834420",
+            "type": "tabs",
+            "dimension": 52.19907407407407,
+            "children": [
+              {
+                "id": "a43e2fd8ee408794",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d13805f5f5f04cb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7937b3cdac17f527",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9f5a9b0eb3fb8ffd",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.allhistory.com/map"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "20a38bc4a900a2a4",
+            "type": "tabs",
+            "dimension": 47.800925925925924,
+            "children": [
+              {
+                "id": "166d5acc5d1d1947",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6ec1040ca04e1d5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "454efeaa68bff53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3d5e70d38dbedbff",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "40cdb3c6b3af7366",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2ff15e70082f5543",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a77d0a6aa8074cff",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7a399653487fa056",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b3ae3b78553b7e10",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "47e8d4739cf5beb8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f0ddfbf87b8b1bd",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-chat-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fa67544361ea75d5",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.2464208464875481,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "04f1e82273958039",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ],
+            "currentTab": 8
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "154bc38d520a9caf"
+    }
+  },
+  "active": "000"
+}

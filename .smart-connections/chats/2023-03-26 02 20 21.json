@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "Site Not Found\nLooks like you've followed a broken link or entered a URL that doesn't exist on Netlify.\n\nBack to our site\n\nIf this is your site, and you weren't expecting a 404 for this path, please visit Netlify's \"page not found\" support guide for troubleshooting tips."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Site Not Found\nLooks like you've followed a broken link or entered a URL that doesn't exist on Netlify.\n\nBack to our site\n\nIf this is your site, and you weren't expecting a 404 for this path, please visit Netlify's \"page not found\" support guide for troubleshooting tips."
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "..."
+    }
+  ]
+]

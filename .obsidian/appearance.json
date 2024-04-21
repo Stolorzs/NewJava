@@ -1,0 +1,18 @@
+{
+  "accentColor": "#74d0fb",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "test",
+    "CustomMermaid",
+    "nodownline",
+    "关闭内部链接下划线",
+    " 隐藏WIKI链接预览框最左侧的竖向线",
+    "编辑与渲染一致",
+    "设置标题行距"
+  ],
+  "nativeMenus": false,
+  "textFontFamily": "PingFang TC,Heiti TC,Microsoft YaHei",
+  "interfaceFontFamily": "PingFang TC,Heiti TC,Microsoft YaHei"
+}

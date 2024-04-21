@@ -1,0 +1,5 @@
+/* 去掉嵌入式块左侧的线条 */
+.markdown-embed {
+    border-left: none !important;
+    padding-left: 0px; /* 变界位置,你可以根据需要调整这个值 */
+}

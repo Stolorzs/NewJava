@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1d505dda3b0ec032",
+    "type": "split",
+    "children": [
+      {
+        "id": "139d28510c37cc03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7979d12cc2ab4584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New world/肖四目录.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaa0ae8611c134aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88c06aac3922af42",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4936543a8412f10",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "9369a53ddc25f713",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cf510d72bf30ba40",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "073eec44508c502f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e5ac0950115d97d9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "66d87491baf59c26",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "right": {
+    "id": "e26bd899ff7932d3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b20aeca972004141",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "81c02c1f73c54a01",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ce4e363f41e84c42",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "aaa0ae8611c134aa",
+  "lastOpenFiles": [
+    "New world/格罗皮乌斯.md",
+    "New world/德国斯图加特的州立美术馆扩建工程.md",
+    "New world/J·斯特林.md",
+    "New world/画图汇总.md",
+    "New world/其他比例.md",
+    "New world/复杂比例.md",
+    "New world/费城老年人公寓.md",
+    "New world/日本的香川县厅舍.md",
+    "New world/美国在科罗拉多州空军士官学院中教堂.md",
+    "New world/旋子彩画.md",
+    "New world/北魏洛阳城.md",
+    "9.23中建史刷题卷.md",
+    "New world/7格汇总.md",
+    "New world/6格汇总.md",
+    "New world/伊诺工学院的克朗楼.md",
+    "New world/巴塞罗那德国展览馆.md",
+    "New world/5格汇总.md",
+    "New world/4格汇总.md",
+    "New world/沃尔夫斯堡文化中心.md",
+    "New world/维也纳分离派展览馆.md",
+    "New world/蓬皮杜国家艺术与文化中心.md",
+    "New world/罗马奥运会小体育宫.md",
+    "New world/内维尔.md",
+    "New world/美国电话电报公司总部大楼.md",
+    "New world/何塞·昆西社区学校.md",
+    "New world/范斯沃斯住宅.md",
+    "档案袋/地球坐标.png",
+    "档案袋/赤道坐标系.png",
+    "档案袋/阿洛诺夫设计与艺术中心3.jpg",
+    "档案袋/俄亥俄州立大学的韦克斯纳视觉艺术中心2.webp",
+    "档案袋/维特拉家具设计博物馆.jpg",
+    "档案袋/海牙国立舞剧院.jpg",
+    "档案袋/阿洛诺夫设计与艺术中心2.jpg",
+    "档案袋/维特拉消防站.jpg",
+    "档案袋/哥伦布会议中心.jpg",
+    "档案袋/柏林犹太人博物馆.webp",
+    "2",
+    "思维导图/测试 .mind",
+    "临时/9.23中建史刷题卷一.最终版.txt",
+    "未命名 5.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "的.canvas",
+    "圣马可广场.canvas",
+    "未命名 2.canvas",
+    "档案袋/档案袋的PDF库/《外国近现代建筑史识别》.pdf",
+    "未命名 1.canvas",
+    "excel/马克笔配色.xlsx",
+    "excel/历史都城表格.xlsx",
+    "booknote/books-data/《外国建筑史-19世纪末叶以前》.pdf.xml",
+    "booknote/books-data/外建史名词解释 pdf.pdf.xml",
+    "booknote/books-data/外建史 画图 pdf.pdf.xml",
+    "booknote/books-data/外建史 论述 pdf.pdf.xml",
+    "未命名.canvas",
+    "中建史思维导图.canvas",
+    "大纲.canvas"
+  ]
+}
