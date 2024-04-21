@@ -54,7 +54,6 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
-
 document$.subscribe(({ body }) => { 
   renderMathInElement(body, {
     delimiters: [
@@ -65,3 +64,4 @@ document$.subscribe(({ body }) => {
     ],
   })
 })
+
