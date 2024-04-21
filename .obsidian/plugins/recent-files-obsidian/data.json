@@ -5,26 +5,6 @@
       "path": "docs/index.md"
     },
     {
-      "basename": "练习题",
-      "path": "docs/text/练习题.md"
-    },
-    {
-      "basename": "练习题-标识符命名规则",
-      "path": "docs/text/练习题-标识符命名规则.md"
-    },
-    {
-      "basename": "练习题-逻辑运算符",
-      "path": "docs/text/练习题-逻辑运算符.md"
-    },
-    {
-      "basename": "练习题-数据类型转换",
-      "path": "docs/text/练习题-数据类型转换.md"
-    },
-    {
-      "basename": "Java概述",
-      "path": "docs/text/Java概述.md"
-    },
-    {
       "basename": "JAVA学习大纲",
       "path": "docs/JAVA学习大纲.md"
     },
