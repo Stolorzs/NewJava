@@ -1,46 +1,17 @@
----
-dg-publish: "true"
-dg-home: "true"
----
+# Foam-mkdocs-template
+Welcome to Foam-mkdocs-template! [[#support roamlinks]]!
 
----
-- [进度](https://www.bilibili.com/video/BV1fh411y7R8?t=6.2&p=144)     
-- [[练习题]]  
-# 第一部分 Java基础
+* How to create this website and share your foam/obsidian notes? See: [[tutorial]]
+* [foam](https://github.com/foambubble/foam)
 
-- #### 第一阶段：编程思想
-	- [[Java概述]] 
-	- [[变量]]  
-	- [[运算符]] 
-	- [[控制结构]] 
-	- [[数组、排序和查找]] 
-	- [[面向对象编程]] #⭐️ 
-	- **项目** 
-		- [[零钱通]] 
-		- [[房屋出租系统]] 
-		- [[迷宫问题]] 
-		- [[八皇后问题]] 
-- #### 第二阶段：编程能力 
-	- [[面向对象编程]] 
-	- [[枚举和注解]] 
-	- [[异常]] 
-	- [[常用类]]  
-	- [[集合]] 
-	- [[泛型]] 
-	- [[线程]]  
-	- [[IO流]] 
-	- 项目 
-		- [[坦克大战]] 
-- #### 第三阶段：分析和代码实现
-	- [[网络编程]] 
-	- [[反射]] 
-	- [[Mysql基础]] 
-	- [[JDBC和连接池]]  
-	- [[正则表达式]] 
-	- 项目
-		- [[骑士周游问题]] 
-		- [[满汉楼]] 
-		- [[多用户通信系统]]  
----
-# 第二部分 Java高级
+
+## Support roamlinks
+
+| origin                  | convert                             |
+| ----------------------- | ----------------------------------- |
+| `[Git Flow](git_flow.md)` | `[Git Flow](../software/git_flow.md)` |
+| `[[Git Flow]]`            | `[Git Flow](../software/git_flow.md)` |
+| `![[image.png]]`           | `![image.png](../image/imag.png)`      |
+| `[[#Heading identifiers]]` | `[Heading identifiers in HTML](#heading-identifiers-in-html)`|
+| `[[Git Flow#Heading]]`     |  `[Git Flow](../software/git_flow.md#heading)` |
 
