@@ -55,6 +55,8 @@ plugins:
   - search
   - roamlinks 
     #- autolinks 
+  - mkdocs-backlinks:
+    ignored_pages: ['Tags','Home']
   - exclude:
       glob:
         - "*.tmp"
