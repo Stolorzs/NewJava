@@ -5,6 +5,14 @@
       "path": "docs/index.md"
     },
     {
+      "basename": "控制结构",
+      "path": "docs/Javastudy/控制结构.md"
+    },
+    {
+      "basename": "循环控制(for, while, do while, 多重循环)",
+      "path": "docs/Javastudy/循环控制(for, while, do while, 多重循环).md"
+    },
+    {
       "basename": "JAVA学习大纲",
       "path": "docs/JAVA学习大纲.md"
     },
