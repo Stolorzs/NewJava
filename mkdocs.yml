@@ -8,7 +8,9 @@ theme:
   #  favicon: attachment/portrait.png
   language: zh # 中文，解决中文搜索问题
   features:
-    - navigation.expand 
+    - navigation.path
+    - navigation.tabs
+    - navigation.expand
     - tabs 
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
@@ -36,7 +38,12 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
+  - pymdownx.snippets
   - pymdownx.smartsymbols
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: true
+      linenums: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -56,8 +63,6 @@ plugins:
       regex:
         - '.*\.(tmp|bin|tar)$'
 extra_javascript:
-  - javascripts/katex.js
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
-extra_css:
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
