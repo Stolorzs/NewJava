@@ -1,6 +1,8 @@
 ---
 dg-publish: "true"
 ---
+[[练习题|返回]]
+
 ![[练习题-break-1.png]]
 ```java
 import java.math

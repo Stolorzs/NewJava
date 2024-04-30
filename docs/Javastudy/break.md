@@ -1,6 +1,7 @@
 ---
 dg-publish: "true"
 ---
+[[控制结构|返回]]
 - [空降](https://www.bilibili.com/video/BV1fh411y7R8?t=6.7&p=139) 
 - 介绍：`break`语句用于终止某个语句块的执行，一般使用在`switch`或者循环(for while do-while`)中
 ```java
@@ -14,7 +15,7 @@ dg-publish: "true"
 graph LR;
 1(循环变量初始化)--->2{循环条件}---->|F|3(while循环结束)
 2-->|T|4["循环体 \n循环变量迭代\nif(条件){……break;}"]-->2
-4-->3
+4-->|break|3
 ```
 
 ---

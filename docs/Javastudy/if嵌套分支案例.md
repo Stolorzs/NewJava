@@ -1,6 +1,7 @@
 ---
 dg-publish: "true"
 ---
+[[分支控制(if, else, switch)|返回]]
 ![[if嵌套分支案例-1.png]]
 ```java
 import java.util.Scanner;

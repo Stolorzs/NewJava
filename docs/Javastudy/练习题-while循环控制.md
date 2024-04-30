@@ -1,6 +1,8 @@
 ---
 dg-publish: "true"
 ---
+[[练习题|返回]]
+
 ![[练习题-while循环控制-1.png]]
 ```java
 public class WhileExercise01{

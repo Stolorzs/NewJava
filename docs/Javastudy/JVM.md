@@ -1,6 +1,8 @@
 ---
 dg-publish: "true"
 ---
+[[Java概述|返回]]
+
 - #### JVM(Java虚拟机)——JVM Java virtual machine
 	- 包含于[[JDK]]中 
 	- 对于不同的平台，要安装不同的虚拟机

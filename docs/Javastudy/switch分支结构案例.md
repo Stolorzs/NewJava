@@ -1,6 +1,7 @@
 ---
 dg-publish: "true"
 ---
+[[分支控制(if, else, switch)|返回]]
 ![[switch分支结构案例1.png]]
 ```java
 import java.util.Scanner;

@@ -1,6 +1,8 @@
 ---
 dg-publish: "true"
 ---
+[[练习题|返回]]
+
 ![[练习题-switch分支控制-1.png]]
 ```java
 import java.util.Scanner;
