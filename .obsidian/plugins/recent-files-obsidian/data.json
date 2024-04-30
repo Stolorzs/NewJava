@@ -5,16 +5,52 @@
       "path": "docs/index.md"
     },
     {
-      "basename": "面向对象编程",
-      "path": "docs/Javastudy/面向对象编程.md"
+      "basename": "Java概述",
+      "path": "docs/Javastudy/Java概述.md"
+    },
+    {
+      "basename": "控制结构",
+      "path": "docs/Javastudy/控制结构.md"
+    },
+    {
+      "basename": "房屋出租系统",
+      "path": "docs/Javastudy/房屋出租系统.md"
     },
     {
       "basename": "运算符",
       "path": "docs/Javastudy/运算符.md"
     },
     {
-      "basename": "控制结构",
-      "path": "docs/Javastudy/控制结构.md"
+      "basename": "标识符命名规则和规范",
+      "path": "docs/Javastudy/标识符命名规则和规范.md"
+    },
+    {
+      "basename": "三元运算符",
+      "path": "docs/Javastudy/三元运算符.md"
+    },
+    {
+      "basename": "运算符优先级",
+      "path": "docs/Javastudy/运算符优先级.md"
+    },
+    {
+      "basename": "算术运算符",
+      "path": "docs/Javastudy/算术运算符.md"
+    },
+    {
+      "basename": "逻辑运算符",
+      "path": "docs/Javastudy/逻辑运算符.md"
+    },
+    {
+      "basename": "骑士周游问题",
+      "path": "docs/Javastudy/骑士周游问题.md"
+    },
+    {
+      "basename": "枚举和注解",
+      "path": "docs/Javastudy/枚举和注解.md"
+    },
+    {
+      "basename": "面向对象编程",
+      "path": "docs/Javastudy/面向对象编程.md"
     },
     {
       "basename": "变量",
@@ -35,10 +71,6 @@
     {
       "basename": "循环控制(for, while, do while, 多重循环)",
       "path": "docs/Javastudy/循环控制(for, while, do while, 多重循环).md"
-    },
-    {
-      "basename": "Java概述",
-      "path": "docs/Javastudy/Java概述.md"
     },
     {
       "basename": "JAVA学习大纲",
