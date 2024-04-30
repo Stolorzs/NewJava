@@ -53,7 +53,7 @@ graph LR;
 - `\r`一个回车 [空降](https://www.bilibili.com/video/BV1fh411y7R8?t=843.3&p=21) 
 ---
 #### Java开发规范
-- Java源文件的==基本组成部分==是类(class)
+- Java源文件的**基本组成部分**是类(class)
 - main方法是固定的，是程序执行入口
 - Java语言==区分大小写==
 - Java方法由一条条语句组成，分号(`;`)必不可少

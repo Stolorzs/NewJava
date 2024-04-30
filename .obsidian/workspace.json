@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/continue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/continue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Javastudy/Java概述.md"
+                "file": "docs/Javastudy/continue.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/continue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/continue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,11 +277,15 @@
   },
   "active": "ff9dfb1766339e03",
   "lastOpenFiles": [
+    "docs/Javastudy/控制结构.md",
+    "docs/Javastudy/continue.md",
+    "docs/Javastudy/break.md",
+    "docs/Javastudy/循环控制(for, while, do while, 多重循环).md",
+    "docs/Javastudy/分支控制(if, else, switch).md",
+    "docs/index.md",
+    "docs/Javastudy/Java概述.md",
     "custom_theme/main.html",
     "custom_theme",
-    "docs/index.md",
-    "docs/Javastudy/控制结构.md",
-    "docs/Javastudy/循环控制(for, while, do while, 多重循环).md",
     "docs/Javastudy/骑士周游问题.md",
     "docs/Javastudy/顺序控制.md",
     "docs/Javastudy/面向对象编程.md",
@@ -300,9 +305,6 @@
     "docs/Javastudy/网络编程.md",
     "docs/Javastudy/继承.md",
     "docs/Javastudy/练习题.md",
-    "docs/Javastudy/练习题-逻辑运算符.md",
-    "docs/Javastudy/练习题-标识符命名规则.md",
-    "docs/Javastudy/练习题-数据类型转换.md",
     "docs/Javastudy/PPT.pptx",
     "docs/Javastudy",
     "Pictures/公安局案例1-3_副本.png",
@@ -323,7 +325,6 @@
     "Pictures/~$公安局任务书.xlsx",
     "未命名.canvas",
     "requirements.txt",
-    "LICENSE",
     "编译.canvas",
     "唐长安.canvas",
     "New world/中建史思维导图.canvas",

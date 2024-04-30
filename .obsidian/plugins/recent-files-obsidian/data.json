@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Java概述",
-      "path": "docs/Javastudy/Java概述.md"
-    },
-    {
-      "basename": "index",
-      "path": "docs/index.md"
+      "basename": "continue",
+      "path": "docs/Javastudy/continue.md"
     },
     {
       "basename": "控制结构",
       "path": "docs/Javastudy/控制结构.md"
     },
     {
+      "basename": "break",
+      "path": "docs/Javastudy/break.md"
+    },
+    {
       "basename": "循环控制(for, while, do while, 多重循环)",
       "path": "docs/Javastudy/循环控制(for, while, do while, 多重循环).md"
+    },
+    {
+      "basename": "分支控制(if, else, switch)",
+      "path": "docs/Javastudy/分支控制(if, else, switch).md"
+    },
+    {
+      "basename": "index",
+      "path": "docs/index.md"
+    },
+    {
+      "basename": "Java概述",
+      "path": "docs/Javastudy/Java概述.md"
     },
     {
       "basename": "JAVA学习大纲",

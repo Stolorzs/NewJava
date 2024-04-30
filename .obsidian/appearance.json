@@ -13,6 +13,6 @@
     "设置标题行距"
   ],
   "nativeMenus": false,
-  "textFontFamily": "PingFang TC,Heiti TC,Microsoft YaHei",
-  "interfaceFontFamily": "PingFang TC,Heiti TC,Microsoft YaHei"
+  "textFontFamily": "Microsoft YaHei",
+  "interfaceFontFamily": "Microsoft YaHei"
 }
