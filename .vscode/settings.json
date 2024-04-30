@@ -6,4 +6,7 @@
     "css.styleSheets": [
 
     ],
+    "markdown.styles": [
+        "DIY.css"
+    ],
 }
