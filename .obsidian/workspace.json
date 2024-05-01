@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Javastudy/Java概述.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,9 +277,12 @@
   },
   "active": "4e1b8a7f9a640611",
   "lastOpenFiles": [
-    "docs/Javastudy/IO流.md",
     "docs/index.md",
+    "docs/Javastudy/集合.md",
     "docs/Javastudy/Java概述.md",
+    "docs/Javastudy/零钱通.md",
+    "docs/Javastudy/八皇后问题.md",
+    "docs/Javastudy/IO流.md",
     "docs/Javastudy/运算符.md",
     "docs/Javastudy/控制结构.md",
     "docs/Javastudy/坦克大战.md",
@@ -300,11 +303,8 @@
     "custom_theme/main.html",
     "custom_theme",
     "docs/Javastudy/顺序控制.md",
-    "docs/Javastudy/零钱通.md",
-    "docs/Javastudy/集合.md",
     "docs/Javastudy/键盘输入语句.md",
     "docs/Javastudy/金字塔问题标准解法.md",
-    "docs/Javastudy/迷宫问题.md",
     "docs/Javastudy/PPT.pptx",
     "docs/Javastudy",
     "Pictures/公安局案例1-3_副本.png",

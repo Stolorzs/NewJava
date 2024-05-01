@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Java概述",
+      "path": "docs/Javastudy/Java概述.md"
+    },
+    {
       "basename": "index",
       "path": "docs/index.md"
     },
     {
-      "basename": "IO流",
-      "path": "docs/Javastudy/IO流.md"
+      "basename": "集合",
+      "path": "docs/Javastudy/集合.md"
     },
     {
-      "basename": "Java概述",
-      "path": "docs/Javastudy/Java概述.md"
+      "basename": "零钱通",
+      "path": "docs/Javastudy/零钱通.md"
+    },
+    {
+      "basename": "八皇后问题",
+      "path": "docs/Javastudy/八皇后问题.md"
+    },
+    {
+      "basename": "IO流",
+      "path": "docs/Javastudy/IO流.md"
     },
     {
       "basename": "运算符",
