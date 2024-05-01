@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "docs/Javastudy/index.md"
+    },
+    {
+      "basename": "数组",
+      "path": "docs/Javastudy/数组.md"
+    },
+    {
+      "basename": "数组赋值案例",
+      "path": "docs/Javastudy/数组赋值案例.md"
+    },
+    {
+      "basename": "数组、排序和查找",
+      "path": "docs/Javastudy/数组、排序和查找.md"
+    },
+    {
+      "basename": "排序",
+      "path": "docs/Javastudy/排序.md"
+    },
+    {
+      "basename": "查找",
+      "path": "docs/Javastudy/查找.md"
+    },
+    {
+      "basename": "多维数组",
+      "path": "docs/Javastudy/多维数组.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "docs/Javastudy/数据类型.md"
+    },
+    {
+      "basename": "面向对象编程",
+      "path": "docs/Javastudy/面向对象编程.md"
+    },
+    {
       "basename": "Java概述",
       "path": "docs/Javastudy/Java概述.md"
+    },
+    {
+      "basename": "控制结构",
+      "path": "docs/Javastudy/控制结构.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "docs/Javastudy/运算符.md"
+    },
+    {
+      "basename": "成员方法",
+      "path": "docs/Javastudy/成员方法.md"
     },
     {
       "basename": "index",
@@ -23,14 +71,6 @@
     {
       "basename": "IO流",
       "path": "docs/Javastudy/IO流.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "docs/Javastudy/运算符.md"
-    },
-    {
-      "basename": "控制结构",
-      "path": "docs/Javastudy/控制结构.md"
     },
     {
       "basename": "房屋出租系统",
@@ -63,10 +103,6 @@
     {
       "basename": "枚举和注解",
       "path": "docs/Javastudy/枚举和注解.md"
-    },
-    {
-      "basename": "面向对象编程",
-      "path": "docs/Javastudy/面向对象编程.md"
     },
     {
       "basename": "变量",

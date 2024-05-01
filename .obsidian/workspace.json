@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e1b8a7f9a640611",
+            "id": "af9c299576c4db16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Javastudy/Java概述.md"
+                "file": "docs/Javastudy/index.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Javastudy/Java概述.md",
+                "file": "docs/Javastudy/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,16 +275,26 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "4e1b8a7f9a640611",
+  "active": "af9c299576c4db16",
   "lastOpenFiles": [
+    "docs/Javastudy/数组.md",
+    "docs/Javastudy/数组赋值案例.md",
+    "docs/Javastudy/数组、排序和查找.md",
+    "docs/Javastudy/排序.md",
+    "docs/Javastudy/查找.md",
+    "docs/Javastudy/多维数组.md",
+    "docs/Javastudy/数据类型.md",
+    "docs/Javastudy/index.md",
+    "docs/Javastudy/面向对象编程.md",
+    "docs/Javastudy/Java概述.md",
+    "docs/Javastudy/控制结构.md",
+    "docs/Javastudy/运算符.md",
+    "docs/Javastudy/成员方法.md",
     "docs/index.md",
     "docs/Javastudy/集合.md",
-    "docs/Javastudy/Java概述.md",
     "docs/Javastudy/零钱通.md",
     "docs/Javastudy/八皇后问题.md",
     "docs/Javastudy/IO流.md",
-    "docs/Javastudy/运算符.md",
-    "docs/Javastudy/控制结构.md",
     "docs/Javastudy/坦克大战.md",
     "docs/Javastudy/房屋出租系统.md",
     "docs/Javastudy/标识符命名规则和规范.md",
@@ -293,18 +303,8 @@
     "docs/Javastudy/算术运算符.md",
     "docs/Javastudy/逻辑运算符.md",
     "docs/Javastudy/骑士周游问题.md",
-    "docs/Javastudy/枚举和注解.md",
-    "docs/Javastudy/面向对象编程.md",
-    "docs/Javastudy/变量.md",
-    "docs/Javastudy/分支控制(if, else, switch).md",
-    "docs/Javastudy/continue.md",
-    "docs/Javastudy/break.md",
-    "docs/Javastudy/循环控制(for, while, do while, 多重循环).md",
     "custom_theme/main.html",
     "custom_theme",
-    "docs/Javastudy/顺序控制.md",
-    "docs/Javastudy/键盘输入语句.md",
-    "docs/Javastudy/金字塔问题标准解法.md",
     "docs/Javastudy/PPT.pptx",
     "docs/Javastudy",
     "Pictures/公安局案例1-3_副本.png",
