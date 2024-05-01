@@ -10,7 +10,8 @@
     "关闭内部链接下划线",
     " 隐藏WIKI链接预览框最左侧的竖向线",
     "编辑与渲染一致",
-    "设置标题行距"
+    "设置标题行距",
+    "github"
   ],
   "nativeMenus": false,
   "textFontFamily": "Microsoft YaHei",

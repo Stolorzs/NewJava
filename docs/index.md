@@ -4,7 +4,7 @@ dg-home: "true"
 ---
 
 ---
-- [进度](https://www.bilibili.com/video/BV1fh411y7R8?t=6.2&p=144)     
+- [进度](https://www.bilibili.com/video/BV1fh411y7R8?t=3.6&p=149)     
 - [[练习题]]  
 # 第一部分 Java基础
 

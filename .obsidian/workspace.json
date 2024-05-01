@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -277,11 +277,13 @@
   },
   "active": "4e1b8a7f9a640611",
   "lastOpenFiles": [
-    "docs/Javastudy/Java概述.md",
+    "docs/Javastudy/IO流.md",
     "docs/index.md",
-    "docs/Javastudy/控制结构.md",
-    "docs/Javastudy/房屋出租系统.md",
+    "docs/Javastudy/Java概述.md",
     "docs/Javastudy/运算符.md",
+    "docs/Javastudy/控制结构.md",
+    "docs/Javastudy/坦克大战.md",
+    "docs/Javastudy/房屋出租系统.md",
     "docs/Javastudy/标识符命名规则和规范.md",
     "docs/Javastudy/三元运算符.md",
     "docs/Javastudy/运算符优先级.md",
@@ -303,8 +305,6 @@
     "docs/Javastudy/键盘输入语句.md",
     "docs/Javastudy/金字塔问题标准解法.md",
     "docs/Javastudy/迷宫问题.md",
-    "docs/Javastudy/辅警备勤室.md",
-    "docs/Javastudy/警史馆、警营文化展厅.md",
     "docs/Javastudy/PPT.pptx",
     "docs/Javastudy",
     "Pictures/公安局案例1-3_副本.png",

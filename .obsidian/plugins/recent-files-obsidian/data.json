@@ -5,8 +5,16 @@
       "path": "docs/index.md"
     },
     {
+      "basename": "IO流",
+      "path": "docs/Javastudy/IO流.md"
+    },
+    {
       "basename": "Java概述",
       "path": "docs/Javastudy/Java概述.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "docs/Javastudy/运算符.md"
     },
     {
       "basename": "控制结构",
@@ -15,10 +23,6 @@
     {
       "basename": "房屋出租系统",
       "path": "docs/Javastudy/房屋出租系统.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "docs/Javastudy/运算符.md"
     },
     {
       "basename": "标识符命名规则和规范",
