@@ -1,52 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "Java概述",
+      "path": "docs/Javastudy/Java概述.md"
+    },
+    {
       "basename": "index",
       "path": "docs/Javastudy/index.md"
     },
     {
-      "basename": "数组",
-      "path": "docs/Javastudy/数组.md"
+      "basename": "变量",
+      "path": "docs/Javastudy/变量.md"
     },
     {
-      "basename": "数组赋值案例",
-      "path": "docs/Javastudy/数组赋值案例.md"
+      "basename": "网络编程",
+      "path": "docs/Javastudy/网络编程.md"
     },
     {
-      "basename": "数组、排序和查找",
-      "path": "docs/Javastudy/数组、排序和查找.md"
-    },
-    {
-      "basename": "排序",
-      "path": "docs/Javastudy/排序.md"
-    },
-    {
-      "basename": "查找",
-      "path": "docs/Javastudy/查找.md"
-    },
-    {
-      "basename": "多维数组",
-      "path": "docs/Javastudy/多维数组.md"
-    },
-    {
-      "basename": "数据类型",
-      "path": "docs/Javastudy/数据类型.md"
-    },
-    {
-      "basename": "面向对象编程",
-      "path": "docs/Javastudy/面向对象编程.md"
-    },
-    {
-      "basename": "Java概述",
-      "path": "docs/Javastudy/Java概述.md"
+      "basename": "运算符",
+      "path": "docs/Javastudy/运算符.md"
     },
     {
       "basename": "控制结构",
       "path": "docs/Javastudy/控制结构.md"
     },
     {
-      "basename": "运算符",
-      "path": "docs/Javastudy/运算符.md"
+      "basename": "顺序控制",
+      "path": "docs/Javastudy/顺序控制.md"
+    },
+    {
+      "basename": "循环控制(for, while, do while, 多重循环)",
+      "path": "docs/Javastudy/循环控制(for, while, do while, 多重循环).md"
+    },
+    {
+      "basename": "零钱通",
+      "path": "docs/Javastudy/零钱通.md"
+    },
+    {
+      "basename": "数组、排序和查找",
+      "path": "docs/Javastudy/数组、排序和查找.md"
+    },
+    {
+      "basename": "常用类",
+      "path": "docs/Javastudy/常用类.md"
+    },
+    {
+      "basename": "房屋出租系统",
+      "path": "docs/Javastudy/房屋出租系统.md"
+    },
+    {
+      "basename": "正则表达式",
+      "path": "docs/Javastudy/正则表达式.md"
+    },
+    {
+      "basename": "位运算符",
+      "path": "docs/Javastudy/位运算符.md"
+    },
+    {
+      "basename": "位运算思考题",
+      "path": "docs/Javastudy/位运算思考题.md"
+    },
+    {
+      "basename": "三元运算符",
+      "path": "docs/Javastudy/三元运算符.md"
+    },
+    {
+      "basename": "赋值运算符",
+      "path": "docs/Javastudy/赋值运算符.md"
+    },
+    {
+      "basename": "数组",
+      "path": "docs/Javastudy/数组.md"
+    },
+    {
+      "basename": "练习题-多重循环控制",
+      "path": "docs/Javastudy/练习题-多重循环控制.md"
+    },
+    {
+      "basename": "金字塔问题标准解法",
+      "path": "docs/Javastudy/金字塔问题标准解法.md"
+    },
+    {
+      "basename": "数组赋值案例",
+      "path": "docs/Javastudy/数组赋值案例.md"
+    },
+    {
+      "basename": "数组拷贝案例",
+      "path": "docs/Javastudy/数组拷贝案例.md"
+    },
+    {
+      "basename": "排序",
+      "path": "docs/Javastudy/排序.md"
+    },
+    {
+      "basename": "多维数组",
+      "path": "docs/Javastudy/多维数组.md"
+    },
+    {
+      "basename": "面向对象编程",
+      "path": "docs/Javastudy/面向对象编程.md"
+    },
+    {
+      "basename": "练习题",
+      "path": "docs/Javastudy/练习题.md"
+    },
+    {
+      "basename": "查找",
+      "path": "docs/Javastudy/查找.md"
+    },
+    {
+      "basename": "数据类型",
+      "path": "docs/Javastudy/数据类型.md"
     },
     {
       "basename": "成员方法",
@@ -61,10 +125,6 @@
       "path": "docs/Javastudy/集合.md"
     },
     {
-      "basename": "零钱通",
-      "path": "docs/Javastudy/零钱通.md"
-    },
-    {
       "basename": "八皇后问题",
       "path": "docs/Javastudy/八皇后问题.md"
     },
@@ -73,16 +133,8 @@
       "path": "docs/Javastudy/IO流.md"
     },
     {
-      "basename": "房屋出租系统",
-      "path": "docs/Javastudy/房屋出租系统.md"
-    },
-    {
       "basename": "标识符命名规则和规范",
       "path": "docs/Javastudy/标识符命名规则和规范.md"
-    },
-    {
-      "basename": "三元运算符",
-      "path": "docs/Javastudy/三元运算符.md"
     },
     {
       "basename": "运算符优先级",
@@ -105,10 +157,6 @@
       "path": "docs/Javastudy/枚举和注解.md"
     },
     {
-      "basename": "变量",
-      "path": "docs/Javastudy/变量.md"
-    },
-    {
       "basename": "分支控制(if, else, switch)",
       "path": "docs/Javastudy/分支控制(if, else, switch).md"
     },
@@ -119,10 +167,6 @@
     {
       "basename": "break",
       "path": "docs/Javastudy/break.md"
-    },
-    {
-      "basename": "循环控制(for, while, do while, 多重循环)",
-      "path": "docs/Javastudy/循环控制(for, while, do while, 多重循环).md"
     },
     {
       "basename": "JAVA学习大纲",

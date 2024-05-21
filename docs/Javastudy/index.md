@@ -4,8 +4,9 @@ dg-home: "true"
 ---
 
 ---
-- [进度](https://www.bilibili.com/video/BV1fh411y7R8?t=3.6&p=149)     
-- [[练习题]]  
+- [ ]  [进度](https://www.bilibili.com/video/BV1fh411y7R8?t=0.7&p=175)     
+- [ ] [模板](模板)
+- [ ] [[练习题]]  
 # 第一部分 Java基础
 
 - #### 第一阶段：编程思想

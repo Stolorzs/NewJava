@@ -14,3 +14,7 @@ body {
 background-color: #222222; /* 背景色为黑色 */
 color: #c1c1c1; /* 文字颜色为白色 */
 }
+/* 修改代码的字体和颜色 */
+pre code {
+    white-space: pre;
+}

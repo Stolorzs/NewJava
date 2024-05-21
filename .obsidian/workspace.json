@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ba448cd28767d1",
+        "id": "dd5ae2464dd07db0",
         "type": "tabs",
         "children": [
           {
-            "id": "af9c299576c4db16",
+            "id": "7ff75dc7ee961b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Javastudy/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Javastudy/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Javastudy/index.md"
+                "file": "docs/Javastudy/Java概述.md"
               }
             }
           },
@@ -160,21 +160,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dg-home",
+                "query": "金",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
-            }
-          },
-          {
-            "id": "47e8d4739cf5beb8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -191,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Javastudy/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,10 +206,18 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8511180742904468,
+                  "scale": 0.5003263460391363,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "47e8d4739cf5beb8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
@@ -248,19 +248,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Javastudy/index.md",
+                "file": "docs/Javastudy/Java概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,34 +274,34 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "af9c299576c4db16",
+  "active": "7ff75dc7ee961b17",
   "lastOpenFiles": [
-    "docs/Javastudy/数组.md",
-    "docs/Javastudy/数组赋值案例.md",
-    "docs/Javastudy/数组、排序和查找.md",
-    "docs/Javastudy/排序.md",
-    "docs/Javastudy/查找.md",
-    "docs/Javastudy/多维数组.md",
-    "docs/Javastudy/数据类型.md",
     "docs/Javastudy/index.md",
-    "docs/Javastudy/面向对象编程.md",
+    "docs/Javastudy/变量.md",
+    "docs/Javastudy/网络编程.md",
+    "docs/Javastudy/运算符.md",
     "docs/Javastudy/Java概述.md",
     "docs/Javastudy/控制结构.md",
-    "docs/Javastudy/运算符.md",
-    "docs/Javastudy/成员方法.md",
-    "docs/index.md",
-    "docs/Javastudy/集合.md",
+    "docs/Javastudy/顺序控制.md",
+    "docs/Javastudy/循环控制(for, while, do while, 多重循环).md",
     "docs/Javastudy/零钱通.md",
-    "docs/Javastudy/八皇后问题.md",
-    "docs/Javastudy/IO流.md",
-    "docs/Javastudy/坦克大战.md",
+    "docs/Javastudy/数组、排序和查找.md",
+    "docs/Javastudy/常用类.md",
     "docs/Javastudy/房屋出租系统.md",
-    "docs/Javastudy/标识符命名规则和规范.md",
+    "docs/Javastudy/正则表达式.md",
+    "docs/Javastudy/位运算符.md",
+    "docs/Javastudy/位运算思考题.md",
     "docs/Javastudy/三元运算符.md",
-    "docs/Javastudy/运算符优先级.md",
-    "docs/Javastudy/算术运算符.md",
-    "docs/Javastudy/逻辑运算符.md",
-    "docs/Javastudy/骑士周游问题.md",
+    "docs/Javastudy/赋值运算符.md",
+    "docs/Javastudy/数组.md",
+    "docs/Javastudy/练习题-多重循环控制.md",
+    "docs/Javastudy/金字塔问题标准解法.md",
+    "docs/Javastudy/数组赋值案例.md",
+    "docs/Javastudy/数组拷贝案例.md",
+    "docs/Javastudy/排序.md",
+    "docs/Javastudy/多维数组.md",
+    "docs/Javastudy/面向对象编程.md",
+    "docs/Javastudy/练习题.md",
     "custom_theme/main.html",
     "custom_theme",
     "docs/Javastudy/PPT.pptx",

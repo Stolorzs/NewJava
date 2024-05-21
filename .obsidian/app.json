@@ -43,7 +43,10 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showIndentGuide": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "showUnsupportedFiles": true,
-  "autoPairBrackets": true
+  "autoPairBrackets": true,
+  "foldHeading": false,
+  "vimMode": false,
+  "showInlineTitle": false
 }
